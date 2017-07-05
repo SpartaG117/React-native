@@ -20,7 +20,7 @@ export default class hello extends Component {
           Welcome to SPART117's homework!!
         </Text>
         <Text style={styles.instructions}>
-          希望给个通过
+          希望给个通过!!
         </Text>
         <Text style={styles.instructions}>
           谢谢老师！！！
